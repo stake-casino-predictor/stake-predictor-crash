@@ -38,7 +38,7 @@ Stake Predictor is your essential solution for making predictions on games such 
 
 ---
 
-**Access Code:** `2024`
+**Access Code:** `2025`
 
 ## 📚 Documentation
 - [Getting Started Guide]()
